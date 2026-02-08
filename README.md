@@ -30,15 +30,15 @@ const artin = {
         databases: ["MySQL", "PostgreSQL"],
         tools: ["Git", "Shell", "Docker"]
     },
-    currentProjects: ["PillNex", "RateMe App", "Venetus", "Peyk Amn"],
+    currentProjects: ["PeykAmn", "RateMe", "PillNex"],
     architecture: ["REST APIs", "MVC", "Component-Based Architecture"],
     funFact: "I build for web, mobile, and everything in between! 📱💻"
 };
 ```
 
-- 🔭 Currently working on **PillNex** (Laravel), **RateMe** (React Native), and **Venetus** (TypeScript)
+- 🔭 Currently working on **PeykAmn** (React Native), **RateMe** (React Native), and **PillNex** (React Native + Laravel backend)
 - 🌱 Experienced in building production-ready **mobile apps** and **web applications**
-- 💼 Specializing in **Laravel backends**, **React Native mobile apps**, and **TypeScript frontends**
+- 💼 Specializing in **React Native mobile apps**, **Laravel backends**, and **full-stack development**
 - 🎯 Focus: Clean code, scalable architecture, and user-centric design
 - ⚡ Fun fact: **I've built apps in 7+ programming languages!**
 - 📫 Reach me: **artin.panahi83@sharif.edu**
@@ -121,24 +121,30 @@ const artin = {
 
 ## 🌟 Featured Projects
 
+### 🚀 Currently Active (2026)
+
 <table align="center">
 <tr>
 <td width="50%">
 
 ### 💊 PillNex
-**Tech:** PHP (96.7%) • Laravel • Blade  
-*Comprehensive medication management platform*
+**Tech:** React Native • Expo SDK 54 • Laravel API  
+**Features:** BLE Integration • Smart Notifications • Cloud Sync • Medication Reminders
+*Revolutionary medication management system with IoT pillbox connectivity*
 
-[![Repo](https://img.shields.io/badge/View_Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/pillnex)
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/pillnex)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </td>
 <td width="50%">
 
-### ⭐ RateMe App
-**Tech:** TypeScript (91.1%) • React Native  
-*Social rating platform with real-time features*
+### ⭐ RateMe
+**Tech:** React Native • Expo • Django REST API  
+**Features:** Video Calls • Live Streaming • Real-time Chat • Social Rating
+*Social platform with WebRTC video calls and HLS live streaming*
 
 [![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/atenakrad/RateMe-app)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </td>
 </tr>
@@ -146,20 +152,51 @@ const artin = {
 <tr>
 <td width="50%">
 
-### 🌐 Venetus
-**Tech:** TypeScript (51.6%) • HTML • JavaScript  
-*Modern web application built with TypeScript*
+### 🚚 PeykAmn
+**Tech:** React Native • Expo • PHP Backend  
+**Features:** Real-time Tracking • Dual Apps • Payment Gateway • Route Optimization
+*Complete delivery ecosystem with user and rider applications*
 
-[![Repo](https://img.shields.io/badge/View_Repo-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/artinpnh83/venetus)
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/peykAmnUser)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </td>
 <td width="50%">
 
-### 🐍 Django Project
-**Tech:** Python (93.6%) • Django • HTML  
-*Full-featured Django web application*
+### 🏥 Petora
+**Tech:** React Native • Expo • Redux Toolkit  
+**Features:** Smart Triage • Appointment Booking • Medical Records • Telemedicine
+*Healthcare platform with AI-powered symptom assessment*
 
-[![Repo](https://img.shields.io/badge/View_Repo-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/artinpnh83/django-project)
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/petora-app)
+![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+### 🏢 Production Applications
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚕 TopZon
+**Tech:** React Native • Laravel Backend  
+**Type:** Ride-Hailing Platform
+*Dual-app system for drivers and passengers with GPS tracking*
+
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/topzon-driver-app)
+
+</td>
+<td width="50%">
+
+### 👨‍⚖️ Vokala-ye Iran
+**Tech:** React Native • Laravel API  
+**Type:** Legal Consultation Platform
+*Connect clients with certified lawyers for legal consultation*
+
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/vokalaayeiranApp)
 
 </td>
 </tr>
@@ -167,18 +204,43 @@ const artin = {
 <tr>
 <td width="50%">
 
-### 🚚 Peyk Amn Platform
-**Tech:** JavaScript • PHP • React Native  
-*Delivery platform with user and rider apps*
+### ✈️ Maswa Tourism
+**Tech:** React Native • Expo • Laravel  
+**Type:** Travel & Tourism Platform
+*Mobile app for tour booking and travel management*
 
-[![Repo](https://img.shields.io/badge/View_Repo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/artinpnh83/peykAmnUser)
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/maswa-mobile)
+
+</td>
+<td width="50%">
+
+### 🛍️ Pakar
+**Tech:** React Native • Expo  
+**Type:** E-commerce Platform
+*Shopping app with reviews, ratings, and delivery tracking*
+
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/PakarV2)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Xplordia
+**Tech:** Laravel • Blade • Vue.js  
+**Type:** Web Platform
+*Full-stack web application with modern UI*
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/xplordia-web)
 
 </td>
 <td width="50%">
 
 ### 🎮 Celestial Guardians
-**Tech:** PHP (53.1%) • Blade • Python  
-*Gaming platform with Laravel backend*
+**Tech:** PHP • Laravel • Blade  
+**Type:** Gaming Platform
+*Online gaming platform with user management and leaderboards*
 
 [![Repo](https://img.shields.io/badge/View_Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/celestial-guardians)
 
@@ -186,17 +248,76 @@ const artin = {
 </tr>
 </table>
 
+### 🔧 Specialized Tools
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📱 RateMe Web Dashboard
+**Tech:** Laravel • React • MySQL  
+*Admin dashboard for RateMe platform management*
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/RateMe-web-v2)
+
+</td>
+<td width="50%">
+
+### 🔌 Arduino Projects
+**Tech:** C++ • IoT • Embedded Systems  
+*Hardware integration and IoT device programming*
+
+[![Repo](https://img.shields.io/badge/View_Repo-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/artinpnh83/arduino)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📈 Language Usage Breakdown
+## 📈 Language Usage & Expertise
 
 ```text
-PHP/Laravel          ████████████████████░░░░░   96.7%  (PillNex, Celestial Guardians)
-TypeScript           ███████████████████░░░░░░   91.1%  (RateMe, Venetus)
-Python/Django        ██████████████████░░░░░░░   93.6%  (Django Project)
-JavaScript           █████████████████░░░░░░░░   83.3%  (Peyk Amn, Jalaali App)
-Mobile (Swift/Kotlin)████████████░░░░░░░░░░░░░   Native iOS & Android
+React Native/Expo    ██████████████████████░░░   85% - PillNex, RateMe, PeykAmn, TopZon, Petora, Pakar, Maswa
+PHP/Laravel          ████████████████░░░░░░░░   65% - Backend APIs, Admin Dashboards, Web Apps
+JavaScript           ███████████████████░░░░░   80% - Frontend & Mobile Development
+TypeScript           ████████████░░░░░░░░░░░░   55% - RateMe, Modern Web Apps
+Python/Django        ███████████░░░░░░░░░░░░░   50% - RateMe Backend, REST APIs
+HTML/CSS/SCSS        ███████████████░░░░░░░░░   70% - Web Interfaces, Responsive Design
+SQL (MySQL/PostgreSQL)██████████████░░░░░░░░░   65% - Database Design & Optimization
+C++/Arduino          ████████░░░░░░░░░░░░░░░░   40% - IoT & Hardware Integration
 ```
+
+### 🎯 Core Competencies
+
+<div align="center">
+
+| 📱 Mobile Development | 🌐 Web Development | ⚙️ Backend Development | 🗄️ Database & DevOps |
+|:---:|:---:|:---:|:---:|
+| React Native (Expert) | Laravel (Expert) | RESTful APIs | MySQL |
+| Expo (Expert) | Django (Advanced) | GraphQL | PostgreSQL |
+| iOS/Android | React/Next.js | WebSocket/Real-time | Redis |
+| BLE/IoT Integration | Vue.js | Microservices | Docker |
+| Push Notifications | Responsive Design | Authentication | Git/CI-CD |
+
+</div>
+
+---
+
+## 💼 Project Statistics
+
+<div align="center">
+
+| 📊 Metric | 📈 Count | 🎯 Category |
+|:---:|:---:|:---:|
+| **Total Mobile Apps** | 15+ | React Native, iOS, Android |
+| **Backend APIs** | 10+ | Laravel, Django, PHP |
+| **Web Applications** | 8+ | Laravel, React, Vue |
+| **Active Projects** | 3 | PillNex, RateMe, PeykAmn |
+| **Production Apps** | 12+ | Live in App/Play Stores |
+| **Technologies Used** | 20+ | Languages & Frameworks |
+
+</div>
 
 ---
 
@@ -265,13 +386,32 @@ artin.buildAmazingThings();
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals & Achievements
 
-- ✅ Build production-ready mobile applications
-- ✅ Master TypeScript and modern React patterns
-- 🔄 Contribute to open-source projects
-- 🔄 Learn cloud infrastructure (AWS/GCP)
-- 📝 Share knowledge through technical writing
+- ✅ **15+ Production Mobile Apps** - React Native apps deployed to App Store & Play Store
+- ✅ **Master Advanced React Native** - BLE, WebRTC, Live Streaming, Background Tasks
+- ✅ **Full-Stack Expertise** - Seamless integration of mobile, web, and backend systems
+- 🔄 **Open Source Contributions** - Contributing to React Native & Expo ecosystems
+- 🔄 **Cloud Infrastructure** - Implementing AWS/GCP solutions for scalable deployments
+- 📝 **Technical Writing** - Sharing knowledge about mobile development best practices
+- 🎓 **Mentorship** - Helping junior developers learn React Native & Laravel
+
+---
+
+## 🏆 Highlighted Achievements
+
+<div align="center">
+
+```
+🎯 Built 15+ production-ready mobile applications
+📱 Mastered React Native, Expo, Laravel, and Django
+🔧 Implemented complex features: BLE, WebRTC, Live Streaming, Real-time Chat
+🌍 Served 10,000+ users across multiple platforms
+⚡ Optimized apps for performance and scalability
+🎨 Designed intuitive UIs with excellent UX
+```
+
+</div>
 
 ---
 
