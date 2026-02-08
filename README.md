@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Artin%20Pnh&fontSize=42&fontAlignY=32&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=51&descAlign=50&animation=twinkling" alt="header"/>
-</div>
+  
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Artin+%F0%9F%91%8B;Full-Stack+Developer;Mobile+App+Developer;Backend+%7C+Frontend+%7C+Mobile;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/artinpnh83">
-    <img src="https://img.shields.io/github/followers/artinpnh83?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=artinpnh83&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/artinpnh83?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repos-10+-orange?style=for-the-badge&logo=github" alt="Total Repositories" />
-  </a>
-</p>
+### Full-Stack & Mobile Developer
+
+![Profile Views](https://komarev.com/ghpvc/?username=artinpnh83&label=Profile%20Views&color=brightgreen&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/artinpnh83?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/artinpnh83)
+[![Total Repos](https://img.shields.io/badge/Total%20Repos-10+-orange?style=flat-square&logo=github)](https://github.com/artinpnh83?tab=repositories)
+
+</div>
 
 ---
 
@@ -24,6 +21,7 @@
 const artin = {
     role: "Full-Stack & Mobile Developer",
     location: "🌍 Building from anywhere",
+    email: "artin.panahi83@sharif.edu",
     code: ["PHP", "TypeScript", "JavaScript", "Python", "Swift", "Kotlin"],
     technologies: {
         backend: ["Laravel", "Django", "PHP"],
@@ -43,7 +41,7 @@ const artin = {
 - 💼 Specializing in **Laravel backends**, **React Native mobile apps**, and **TypeScript frontends**
 - 🎯 Focus: Clean code, scalable architecture, and user-centric design
 - ⚡ Fun fact: **I've built apps in 7+ programming languages!**
-- 📫 Reach me: **[Your Email Here]**
+- 📫 Reach me: **artin.panahi83@sharif.edu**
 
 ---
 
@@ -97,114 +95,122 @@ const artin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artinpnh83&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artinpnh83&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&text_color=FFFFFF&count_private=true&langs_count=8" alt="Top Languages" height="170" />
+<a href="https://github.com/artinpnh83">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=artinpnh83&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artinpnh83&layout=compact&langs_count=8&theme=radical"/>
+</a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artinpnh83&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BADE8&ring=3BADE8&fire=FF6B6B&currStreakLabel=3BADE8" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artinpnh83&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BADE8&line=3BADE8&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=artinpnh83&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=artinpnh83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+| 🌟 **Total Stars** | 🔱 **Total Forks** | 📝 **Total Commits (2024)** | 🔀 **Pull Requests** |
+|:---:|:---:|:---:|:---:|
+| ![Stars](https://img.shields.io/github/stars/artinpnh83?style=for-the-badge&logo=github&color=yellow) | ![Forks](https://img.shields.io/github/forks/artinpnh83/pillnex?style=for-the-badge&logo=github&color=blue) | 500+ | ![PRs](https://img.shields.io/badge/PRs-50+-green?style=for-the-badge) |
+
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
 ### 💊 PillNex
-**Tech Stack:** PHP (96.7%) • Laravel • Blade • Shell  
+**Tech:** PHP (96.7%) • Laravel • Blade  
 *Comprehensive medication management platform*
 
-[![PillNex](https://img.shields.io/badge/View_Project-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/pillnex)
+[![Repo](https://img.shields.io/badge/View_Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/pillnex)
 
----
+</td>
+<td width="50%">
 
 ### ⭐ RateMe App
-**Tech Stack:** TypeScript (91.1%) • React Native • Swift • Kotlin  
+**Tech:** TypeScript (91.1%) • React Native  
 *Social rating platform with real-time features*
 
-[![RateMe](https://img.shields.io/badge/View_Project-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/atenakrad/RateMe-app)
+[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/atenakrad/RateMe-app)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌐 Venetus
-**Tech Stack:** TypeScript (51.6%) • HTML • JavaScript  
+**Tech:** TypeScript (51.6%) • HTML • JavaScript  
 *Modern web application built with TypeScript*
 
-[![Venetus](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/artinpnh83/venetus)
+[![Repo](https://img.shields.io/badge/View_Repo-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/artinpnh83/venetus)
 
----
+</td>
+<td width="50%">
 
 ### 🐍 Django Project
-**Tech Stack:** Python (93.6%) • Django • HTML • Shell  
+**Tech:** Python (93.6%) • Django • HTML  
 *Full-featured Django web application*
 
-[![Django Project](https://img.shields.io/badge/View_Project-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/artinpnh83/django-project)
+[![Repo](https://img.shields.io/badge/View_Repo-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/artinpnh83/django-project)
 
----
+</td>
+</tr>
 
-### 🚚 Peyk Amn (User & Riders)
-**Tech Stack:** JavaScript • PHP • React Native  
-*Delivery platform with separate user and rider apps*
+<tr>
+<td width="50%">
 
-[![Peyk Amn](https://img.shields.io/badge/View_Project-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/artinpnh83/peykAmnUser)
+### 🚚 Peyk Amn Platform
+**Tech:** JavaScript • PHP • React Native  
+*Delivery platform with user and rider apps*
 
----
+[![Repo](https://img.shields.io/badge/View_Repo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/artinpnh83/peykAmnUser)
+
+</td>
+<td width="50%">
 
 ### 🎮 Celestial Guardians
-**Tech Stack:** PHP (53.1%) • Blade • Python • CSS  
+**Tech:** PHP (53.1%) • Blade • Python  
 *Gaming platform with Laravel backend*
 
-[![Celestial Guardians](https://img.shields.io/badge/View_Project-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/celestial-guardians)
+[![Repo](https://img.shields.io/badge/View_Repo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/artinpnh83/celestial-guardians)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📅 Jalaali Calendar App
-**Tech Stack:** JavaScript (93.4%) • React Native • Swift • Kotlin  
-*Persian calendar mobile application*
-
-[![Jalaali App](https://img.shields.io/badge/View_Project-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/artinpnh83/jalaali-app)
-
-</div>
-
----
-
-## 📈 My Coding Journey
+## 📈 Language Usage Breakdown
 
 ```text
-PHP/Laravel          ████████████████████░░░░░   96.7%
-TypeScript           ███████████████████░░░░░░   91.1%
-Python/Django        ██████████████████░░░░░░░   93.6%
-JavaScript           █████████████████░░░░░░░░   83.3%
-Mobile Development   ████████████░░░░░░░░░░░░░   Native iOS & Android
+PHP/Laravel          ████████████████████░░░░░   96.7%  (PillNex, Celestial Guardians)
+TypeScript           ███████████████████░░░░░░   91.1%  (RateMe, Venetus)
+Python/Django        ██████████████████░░░░░░░   93.6%  (Django Project)
+JavaScript           █████████████████░░░░░░░░   83.3%  (Peyk Amn, Jalaali App)
+Mobile (Swift/Kotlin)████████████░░░░░░░░░░░░░   Native iOS & Android
 ```
 
 ---
 
-## 💡 Random Dev Quote
+## 💻 What I Build
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
----
+| Backend Development | Frontend Development | Mobile Development |
+|:---:|:---:|:---:|
+| 🔧 RESTful APIs | 🎨 Responsive Design | 📱 Cross-platform Apps |
+| 🗄️ Database Design | ⚡ Modern UI/UX | 🍎 Native iOS (Swift) |
+| 🔐 Authentication | 🚀 SPA Development | 🤖 Native Android (Kotlin) |
+| 📊 Data Management | 💅 Styled Components | 🔄 React Native |
 
-## 🐍 Watch my contribution graph get eaten by a snake!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/artinpnh83/artinpnh83/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -213,77 +219,72 @@ Mobile Development   ████████████░░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![Email](https://img.shields.io/badge/Email-artin.panahi83@sharif.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artin.panahi83@sharif.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artinpnh83)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 </div>
 
 ---
 
-## 💻 What I Do
+## 💡 My Development Philosophy
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
 
 ```typescript
-class Developer extends Artin {
+class Developer {
     constructor() {
-        super();
-        this.skills = {
-            backend: ['Building RESTful APIs', 'Database Design', 'Server Management'],
-            frontend: ['Responsive Design', 'Modern UI/UX', 'SPA Development'],
-            mobile: ['Cross-platform Apps', 'Native iOS', 'Native Android'],
-            devOps: ['Version Control', 'CI/CD', 'Deployment']
-        };
+        this.mindset = "Always learning";
+        this.approach = "User-first, scalable solutions";
+        this.goal = "Building products that matter";
     }
     
-    buildAmazingThings() {
-        while (coding) {
-            learn();
-            code();
-            debug();
-            repeat();
+    async buildAmazingThings() {
+        while (true) {
+            await this.learn();
+            await this.code();
+            await this.test();
+            await this.deploy();
+            await this.improve();
         }
     }
 }
+
+const artin = new Developer();
+artin.buildAmazingThings();
 ```
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📚 Recent Activity
 
-```text
-TypeScript   12 hrs 45 mins  ████████████░░░░░░░░░   48.2%
-PHP          8 hrs 20 mins   ████████░░░░░░░░░░░░░   31.5%
-Python       3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   12.3%
-JavaScript   2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░    8.0%
-```
+<!--START_SECTION:activity-->
+<!-- GitHub activity will be displayed here if you set up the workflow -->
+<!--END_SECTION:activity-->
 
 ---
 
-## 💝 Support My Work
+## 🎯 2024 Goals
 
-<div align="center">
-
-If you like my projects, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourhandle)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourhandle)
-
-</div>
+- ✅ Build production-ready mobile applications
+- ✅ Master TypeScript and modern React patterns
+- 🔄 Contribute to open-source projects
+- 🔄 Learn cloud infrastructure (AWS/GCP)
+- 📝 Share knowledge through technical writing
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
-</div>
 
-<div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
+### 💖 Show some love by starring repositories you find interesting!
 
-**💼 Open for opportunities • Full-Stack & Mobile Development**
+**💼 Available for freelance opportunities and collaborations**
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**🌟 Let's build something amazing together!**
+
+---
+
+*Last updated: February 2026*
 
 </div>
